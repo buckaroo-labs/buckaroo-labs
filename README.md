@@ -18,4 +18,4 @@ I'm Kent Heiner, a graduate student in Computer Science at Western Washington Un
 
 ## Repositories 
 
-These repos contain tools intended primarily for my own use, but usually with an eye toward making them useful to others (which includes making their purpose, implementation and usage readily understood). I'm happy to take suggestions and answer questions about any of them. If you don't have my contact info, a good way to get my attention that also keeps my inbox free of bots is to send me a buck on [ko-fi](https://ko-fi.com/heiner).
+These repos contain tools intended primarily for my own use, but usually maintained with an eye toward making them useful to others (which includes making their purpose, implementation and usage readily understood). I'm happy to take suggestions and answer questions about any of them. If you don't have my contact info, a good way to get my attention that also keeps my inbox free of bots is to send me a buck on [ko-fi](https://ko-fi.com/heiner).
