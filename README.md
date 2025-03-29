@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kent Heiner, a graduate student in Computer Science at Western Washington University. I'm also a writer and an open-source software enthusiast. I have 25 years of experience in database administration and software development, and an MS in cybersecurity (which says only that I should know better than to code the way I do). 
+I'm Kent Heiner, an adjunct instructor in Software Development at Whatcom Community College. I'm also a writer and an open-source software enthusiast. I have 25 years of experience in database administration and software development, and an MS in cybersecurity (which says only that I should know better than to code the way I do). 
 
 ## Repositories 
 
