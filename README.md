@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kent Heiner, formerly a Software Development instructor at Whatcom Community College. I'm also a technical writer and an open-source software enthusiast. I have 25 years of experience in database administration and software development, and an MS in cybersecurity. 
+I'm Kent Heiner, a technical writer and an open-source software enthusiast; formerly a Software Development instructor at Whatcom Community College. I have 25 years of experience in database administration and software development, and an MS in cybersecurity. 
 
 ## Repositories 
 
